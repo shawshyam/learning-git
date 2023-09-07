@@ -1,1 +1,4 @@
 this is a sample content snapshot 1
+
+Inventory change code apply
+this is another line 
